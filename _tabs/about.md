@@ -22,4 +22,4 @@ Outside of studying, I'm a research assistant at a [computational neuroscience l
 
 Besides that, I also had a very undecorated competitive swimming career. I swam for NYU's varsity swim team during my freshman and junior year (COVID cancelled the sophomore season). I liked swimming breaststroke, fly, and IM. 
 
-Oh, and here's my [resume](Aaron_Hsieh_Resume.pdf).
+Oh, and here's my [resume](https://aaronhsieh.github.io/assets/Aaron_Hsieh_Resume.pdf).
