@@ -12,7 +12,7 @@ Outside of studying, I'm a research assistant at a [computational neuroscience l
 
 For my sophomore summer, I was a Software Engineer Intern at Meta (it was Facebook back then) on the Instagram Growth Ranking Services team, where I helped add sparse features for notifications ranking. For my junior summer, I was a Software Engineer Intern at Snap Inc on the Perecption team, where I created an offline testing tool for their ranking framework and iterated on a recommendation source based on visual similarity. During my last week there, I accidentally crashed the service for recommending face lenses for a couple of minutes. Whoops.
 
-Besides that, I also had a very undecorated competitive swimming career. I swam for NYU's varsity swim team during my freshman and junior year (COVID cancelled the sophomore season). I liked swimming breaststroke, fly, and IM. In my free time, I like to hang out with friends, play piano, watch TV/anime, and wasting my time on YouTube.
+Besides that, I also had a very undecorated competitive swimming career. I swam for NYU's varsity swim team during my freshman and junior year (COVID cancelled the sophomore season). I liked swimming breaststroke, fly, and IM. In my free time, I like to hang out with friends, play piano, watch TV/anime, and waste my time on YouTube.
 
 You might see some blog posts in the category of "Anthropocene-Review". This is taken from a book written by John Green called the [Anthropocene Reviewed](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed). In brief, John Green gives a review on various topics that define experiences unique to our species, ranging from Mario Kart to the Academic Decathlon. I'm a fan of it, so I've decided to try it too.
 
